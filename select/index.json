@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "全力バタンキュー",
+  "base_artist": "A応P",
+  "createdAt": "2026-03-15T09:28:06.605035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "全力バタンキュー",
+      "artist": "A応P",
+      "has_synced": true,
+      "path": "select/01_全力バタンキュー_A応P.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "全力バタンキュー (TV Version)",
+      "artist": "A応P",
+      "has_synced": true,
+      "path": "select/02_全力バタンキュー_(TV_Version)_A応P.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "全力バタンキュー (Instrumental)",
+      "artist": "A応P",
+      "has_synced": false,
+      "path": "select/03_全力バタンキュー_(Instrumental)_A応P.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "全力バタンキュー",
+      "artist": "AOP",
+      "has_synced": true,
+      "path": "select/04_全力バタンキュー_AOP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "全力バタンキュー",
+      "artist": "AOP",
+      "has_synced": true,
+      "path": "select/05_全力バタンキュー_AOP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "全力バタンキュー",
+      "artist": "TAMUSIC",
+      "has_synced": true,
+      "path": "select/06_全力バタンキュー_TAMUSIC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全力バタンキュー",
+      "artist": "A応P",
+      "has_synced": false,
+      "path": "select/pl_01_全力バタンキュー_A応P.txt"
+    }
+  ]
+}
